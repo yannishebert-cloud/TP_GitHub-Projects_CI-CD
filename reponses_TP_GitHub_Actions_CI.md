@@ -1,7 +1,5 @@
 # TP — Découvrir l'intégration continue avec GitHub Actions : réponses aux questions
 
-Les réponses ci-dessous sont les réponses attendues. Pour les parties qui dépendent de ce que vous observez à l'écran (noms exacts des tests, journaux GitHub), adaptez-les à vos propres résultats.
-
 ## Question 1 : `git init`, `git add`, `git commit`
 
 - **`git init`** crée le dossier caché `.git` : le projet devient un dépôt Git local, qui peut suivre l'historique des modifications. Rien n'est encore enregistré.
